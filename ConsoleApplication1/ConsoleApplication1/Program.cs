@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("I'm sexy and i know it");
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
