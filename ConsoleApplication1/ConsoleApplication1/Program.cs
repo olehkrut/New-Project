@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2
+namespace ConsoleApplication1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Roma likes it");
-            Console.WriteLine("I didn't mention that roma likes to lick my dick");
-            Console.ReadKey();
+            Console.WriteLine("I'm sexy and i know it");
         }
     }
 }
