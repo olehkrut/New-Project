@@ -12,7 +12,10 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("I'm sexy and i know it");
             Console.WriteLine();
-           
+            ClassForRoman roman = new ClassForRoman() { Name = "Roman" };
+            Console.WriteLine(roman);
+            ClassForRoman.OutputToConsole("Hello!");
+            Console.ReadLine();
         }
     }
 }
