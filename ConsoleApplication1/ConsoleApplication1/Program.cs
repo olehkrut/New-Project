@@ -16,6 +16,11 @@ namespace ConsoleApplication1
             Console.WriteLine(roman);
             ClassForRoman.OutputToConsole("Hello!");
             Console.ReadLine();
+
+            MedikAndMichealsPidarast pesiki = new MedikAndMichealsPidarast();
+            Console.WriteLine(pesiki);
+            Console.Read();
+            
         }
     }
 }
